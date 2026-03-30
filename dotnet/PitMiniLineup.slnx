@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PitMiniLineup.ApiService/PitMiniLineup.ApiService.csproj" />
+  <Project Path="PitMiniLineup.AppHost/PitMiniLineup.AppHost.csproj" />
+  <Project Path="PitMiniLineup.ServiceDefaults/PitMiniLineup.ServiceDefaults.csproj" />
+  <Project Path="PitMiniLineup.Web/PitMiniLineup.Web.csproj" />
+</Solution>
